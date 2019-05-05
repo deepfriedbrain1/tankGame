@@ -1,5 +1,5 @@
 # TANK GAME 
-[! Tank Game] (https://ibb.co/hf0Ybs6)
+![Tank Game] (https://ibb.co/hf0Ybs6)
 # BASIC CONTROLS
   PLAYER 1 - Left Screen
   UP - w, DOWN - s, RIGHT - d, LEFT - a, FIRE - f, PICKUP SPECIAL - g
