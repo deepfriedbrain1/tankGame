@@ -1,4 +1,4 @@
-# TANK GAME 
+# ** TANK GAME **
 ![Tank Game](https://i.ibb.co/KwnKd6P/Tank-Game-Main.png)
 # BASIC CONTROLS
   PLAYER 1 - Left Screen
